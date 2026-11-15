@@ -2,7 +2,7 @@ Lunar Site Explorer
 
 An interactive Roblox experience for exploring lunar south-pole landing conditions.
 
-Roblox Game Link for online use:
+Roblox Game Link to play free online:
 https://www.roblox.com/games/104008334336636/GliTcHGaMiNgTwos-Place-11142026-1
 
 Explanation:
