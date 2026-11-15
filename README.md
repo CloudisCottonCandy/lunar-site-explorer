@@ -14,11 +14,12 @@ The project combines lunar terrain visualisation with astronomical data from NAS
 Features
 
 - 3D Lunar Terrain: Explore a terrain model generated from actual lunar south-pole elevation data.
-- Coordinate Navigation: Navigate to locations using latitude and longitude.
+- Coordinate Navigation: Navigate to locations using latitude and longitude, or simply move around with your arrow keys.
 - Time Selection: Select an observation date and time.
 - Sun & Earth Visualisation: Display the apparent positions of the Sun and Earth relative to the local horizon.
 - Astronomical Data: Retrieve azimuth and elevation values using NASA/JPL Horizons.
 - Horizon Status: Identify whether the Sun and Earth are above or below the local horizon.
+- Immerse: Click anywhere on the terrain and click spectate button to visually see the terrain, sun and earth with full 3d movement and immersion.
 
 Data Sources
 
